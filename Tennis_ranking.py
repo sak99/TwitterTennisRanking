@@ -58,7 +58,7 @@ def preprocess(s, lowercase=False):
 
 # In[3]:
 
-tweets_data_path = 'F:\Data Analysis\PythonProgs\Twitfeed\Tennis\old_tennis2.json'
+tweets_data_path = 'source.json'
 
 tweets_data = []
 tokens=[]
